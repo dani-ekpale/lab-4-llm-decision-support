@@ -1,0 +1,13 @@
+# Environment variables (contains private keys)
+.env
+.env.txt
+.env.*
+
+# Python virtual environments & caches
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
